@@ -1,0 +1,1 @@
+# DjangoApp-Nginx_PostgreSQL_PgAdmin_Docker
